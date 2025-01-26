@@ -23,6 +23,8 @@
 
 ## GUI Interface 
 
+![GUI Interface](https://github.com/Salahbendary/SalatAlQeyamApp/blob/main/AlQeyamPrayer.jpeg)
+
 ---
 
 ## Technical Details
